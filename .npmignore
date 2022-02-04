@@ -8,4 +8,6 @@ CONTRIBUTING.md
 .prettierrc
 .prettierignore
 .eslintrc
+.eslintrc.js
 .eslintignore
+.husky/*
