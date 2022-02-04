@@ -1,6 +1,3 @@
-
-RawBlame
-   
 image: Ubuntu2004
 platform: x64
 stack: node lts/*
@@ -10,4 +7,3 @@ install:
 
 build_script:
   - npm test
-  - npm run build
