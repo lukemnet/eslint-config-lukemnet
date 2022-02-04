@@ -10,3 +10,4 @@ CONTRIBUTING.md
 .eslintrc
 .eslintrc.js
 .eslintignore
+.husky/*
