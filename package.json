@@ -1,5 +1,5 @@
 {
-  "name": "@lukemnet/typescript-eslint-prettier-config",
+  "name": "@lukemnet/ts-eslint-prettier-config",
   "version": "0.0.1",
   "description": "ESLint config with TypeScript and Prettier support",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lukemnet/typescript-eslint-prettier-config.git"
+    "url": "git+ssh://git@github.com/lukemnet/ts-eslint-prettier-config.git"
   },
   "keywords": [
     "eslint",
@@ -19,15 +19,15 @@
   "author": "Łukasz Wójcik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukemnet/typescript-eslint-prettier-config/issues"
+    "url": "https://github.com/lukemnet/ts-eslint-prettier-config/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/lukemnet/typescript-eslint-prettier-config/blob/master/LICENSE"
+      "url": "https://github.com/lukemnet/ts-eslint-prettier-config/blob/master/LICENSE"
     }
   ],
-  "homepage": "https://github.com/lukemnet/typescript-eslint-prettier-config#readme",
+  "homepage": "https://github.com/lukemnet/ts-eslint-prettier-config#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.10.2",
     "@typescript-eslint/parser": "^5.10.2",
