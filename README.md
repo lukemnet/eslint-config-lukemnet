@@ -1,4 +1,4 @@
-# eslint-config-lukemnet-typescript-prettier
+# eslint-config-lukemnet
 
 Opinionated ESLint config with TypeScript and Prettier support for React and Node.js projects.
 
@@ -7,14 +7,14 @@ Heavily inspired by [eslint-config-airbnb-typescript-prettier](https://github.co
 ## Install
 
 ```bash
-$ npm install  --save-dev typescript eslint prettier eslint-config-lukemnet-typescript-prettier
+$ npm install  --save-dev typescript eslint prettier eslint-config-lukemnet
 ```
 
 Add to `.eslintrc.js`:
 
 ```js
 module.exports = {
-  extends: "lukemnet-typescript-prettier",
+  extends: "lukemnet",
 };
 ```
 
