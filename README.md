@@ -7,17 +7,17 @@ Heavily inspired by [eslint-config-airbnb-typescript-prettier](https://github.co
 ## Install
 
 ```bash
-$ npm install  --save-dev typescript eslint prettier eslint-config-lukemnet-typescript-prettier
+$ npm install  --save-dev typescript eslint prettier eslint-config-lukemnet
 ```
 
 Add to `.eslintrc.js`:
 
 ```js
 module.exports = {
-  extends: "lukemnet-typescript-prettier",
+  extends: "lukemnet",
 };
 ```
 
 ## License
 
-Licensed under MIT License. See [LICENSE](https://github.com/blizzapi/blizzapi/blob/master/LICENSE) for more information.
+Licensed under MIT License. See [LICENSE](https://github.com/lukemnet/eslint-config-lukemnet/blob/master/LICENSE) for more information.
