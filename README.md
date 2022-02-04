@@ -10,10 +10,14 @@ Heavily inspired by [eslint-config-airbnb-typescript-prettier](https://github.co
 $ npm install  --save-dev typescript eslint prettier eslint-config-lukemnet-typescript-prettier
 ```
 
-Add to `.eslintrc.js`ą:
+Add to `.eslintrc.js`:
 
 ```js
 module.exports = {
   extends: "lukemnet-typescript-prettier",
 };
 ```
+
+## License
+
+Licensed under MIT License. See [LICENSE](https://github.com/blizzapi/blizzapi/blob/master/LICENSE) for more information.
