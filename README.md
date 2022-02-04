@@ -1,4 +1,4 @@
-# eslint-config-lukemnet-typescript-prettier
+# eslint-config-lukemnet
 
 Opinionated ESLint config with TypeScript and Prettier support for React and Node.js projects.
 
