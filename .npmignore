@@ -10,4 +10,5 @@ CONTRIBUTING.md
 .eslintrc
 .eslintrc.js
 .eslintignore
+.eslintcache
 .husky/*
