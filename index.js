@@ -54,6 +54,9 @@ module.exports = {
     ],
   },
   settings: {
+    react: {
+      version: "999.999.999",
+    },
     "import/resolver": {
       node: {
         extensions: [".js", ".ts", ".jsx", ".tsx", ".json"],
