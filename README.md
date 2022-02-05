@@ -5,7 +5,7 @@
 
 Opinionated ESLint config with TypeScript and Prettier support for React and Node.js projects.
 
-Heavily inspired by [eslint-config-airbnb-typescript-prettier](https://github.com/toshi-toma/eslint-config-airbnb-typescript-prettier) by [Toshihisa Tomatsu](https://github.com/toshi-toma) and [https://github.com/iamturns/eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) by [Matt Turnbull](https://github.com/iamturns).
+Heavily inspired by [eslint-config-airbnb-typescript-prettier](https://github.com/toshi-toma/eslint-config-airbnb-typescript-prettier) by [Toshihisa Tomatsu](https://github.com/toshi-toma) and [eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) by [Matt Turnbull](https://github.com/iamturns).
 
 ## Install
 
