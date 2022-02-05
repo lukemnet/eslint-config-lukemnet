@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lukemnet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opinionated ESLint config with TypeScript and Prettier support for React and Node.js projects",
   "keywords": [
     "eslint",
